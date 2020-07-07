@@ -1,0 +1,5 @@
+/home/muhamed/Cpp_workspace/SocketProgramming/Server/build/CMakeFiles/rebuild_cache.dir
+/home/muhamed/Cpp_workspace/SocketProgramming/Server/build/CMakeFiles/edit_cache.dir
+/home/muhamed/Cpp_workspace/SocketProgramming/Server/build/src/CMakeFiles/rebuild_cache.dir
+/home/muhamed/Cpp_workspace/SocketProgramming/Server/build/src/CMakeFiles/server.dir
+/home/muhamed/Cpp_workspace/SocketProgramming/Server/build/src/CMakeFiles/edit_cache.dir
